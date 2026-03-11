@@ -51,6 +51,7 @@
 ---
 
 # 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=singhmohit7057)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-trophy.vercel.app/?username=singhmohit7057&theme=radical&no-frame=true)
 
